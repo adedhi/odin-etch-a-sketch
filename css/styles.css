@@ -16,6 +16,10 @@
     height: 60px;
 }
 
+button:hover {
+  transform: scale(1.05);
+}
+
 .grid_container {
     display: flex;
     justify-content: center;
